@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 LINE1
-=======
-kkkkkk
->>>>>>> 9011e39093dfc188ad16e19ea53786ed5c8ba484
 ggg
 bvdskbf
 nbdkjs
